@@ -1,0 +1,239 @@
+{
+  "invoiceDetails": [
+    {
+      "Description": "Grilled Sandwich",
+      "Qty": "1",
+      "UnitCost": "32",
+      "total": "32"
+    },
+    {
+      "Description": "Fried Egg Sandwich",
+      "Qty": "1",
+      "UnitCost": "59",
+      "total": "59"
+    },
+    {
+      "Description": "Spicy Grilled Burger",
+      "Qty": "2",
+      "UnitCost": "29",
+      "total": "58"
+    },
+    {
+      "Description": "Peri Peri Fries",
+      "Qty": "2",
+      "UnitCost": "9",
+      "total": "18"
+    }
+  ],
+  "invoiceList": [
+    {
+      "id": "001",
+      "InvoiceId": "15451",
+      "OrderName": "French Fries",
+      "InvoiceDate": "19/05/2023",
+      "Quantity": "8",
+      "TotalBill": "8"
+    },
+    {
+      "id": "004",
+      "InvoiceId": "15452",
+      "OrderName": "Mango Pie",
+      "InvoiceDate": "9/05/2023",
+      "Quantity": "15",
+      "TotalBill": "10"
+    },
+    {
+      "id": "023",
+      "InvoiceId": "22343",
+      "OrderName": "Fried Egg Sandwich",
+      "InvoiceDate": "9/05/2023",
+      "Quantity": "13",
+      "TotalBill": "19"
+    },
+    {
+      "id": "123",
+      "InvoiceId": "23454",
+      "OrderName": "Lemon Yogurt Parfait",
+      "InvoiceDate": "12/05/2023",
+      "Quantity": "21",
+      "TotalBill": "39"
+    },
+    {
+      "id": "234",
+      "InvoiceId": "32564",
+      "OrderName": "Spicy Grill Sandwich",
+      "InvoiceDate": "18/05/2023",
+      "Quantity": "42",
+      "TotalBill": "109"
+    },
+    {
+      "id": "543",
+      "InvoiceId": "43534",
+      "OrderName": "Chicken Sandwich",
+      "InvoiceDate": "25/05/2023",
+      "Quantity": "36",
+      "TotalBill": "339"
+    },
+    {
+      "id": "345",
+      "InvoiceId": "44565",
+      "OrderName": "Veg Sandwich",
+      "InvoiceDate": "25/05/2023",
+      "Quantity": "21",
+      "TotalBill": "219"
+    },
+    {
+      "id": "083",
+      "InvoiceId": "47453",
+      "OrderName": "Cake",
+      "InvoiceDate": "17/05/2023",
+      "Quantity": "54",
+      "TotalBill": "569"
+    },
+    {
+      "id": "286",
+      "InvoiceId": "53653",
+      "OrderName": "Chicken Fried",
+      "InvoiceDate": "17/05/2023",
+      "Quantity": "04",
+      "TotalBill": "324"
+    },
+    {
+      "id": "284",
+      "InvoiceId": "68352",
+      "OrderName": "Spaghetti",
+      "InvoiceDate": "18/05/2023",
+      "Quantity": "21",
+      "TotalBill": "622"
+    },
+    {
+      "id": "206",
+      "InvoiceId": "69231",
+      "OrderName": "Pastries",
+      "InvoiceDate": "20/05/2023",
+      "Quantity": "16",
+      "TotalBill": "1312"
+    },
+    {
+      "id": "208",
+      "InvoiceId": "70231",
+      "OrderName": "Nachos",
+      "InvoiceDate": "20/05/2023",
+      "Quantity": "7",
+      "TotalBill": "2311"
+    }
+  ],
+  "socialMedia": [
+    {
+      "media": "Twitter",
+      "icon": "fa-brands fa-square-twitter",
+      "title": "TOTAL TWEETS",
+      "tweets": "12,039",
+      "last": "48% From Last 24 Hours",
+      "color": "#3da4f1"
+    },
+    {
+      "media": "LinkedIn",
+      "icon": "fa-brands fa-linkedin",
+      "title": "TOTAL FOLLOWERS",
+      "tweets": "3,819",
+      "last": "48% From Last 24 Hours",
+      "color": "#0177b5"
+    },
+    {
+      "media": "Facebook",
+      "icon": "fa-brands fa-square-facebook",
+      "title": "TOTAL LIKES",
+      "tweets": "9,289",
+      "last": "48% From Last 24 Hours",
+      "color": "#3b5997"
+    },
+    {
+      "media": "Instagram",
+      "icon": "fa-brands fa-instagram",
+      "title": "TOTAL FOLLOWERS",
+      "tweets": "7,658",
+      "last": "48% From Last 24 Hours",
+      "color": "linear-gradient(to top right, #fa7e1e, #d82a74, #9a2ebc, #4f5bd5)"
+    }
+  ],
+  "conversations": [
+    {
+      "Source": "Facebook",
+      "ConValue": "92",
+      "cV1": "67",
+      "cV2": "+64",
+      "cVcolor": "green",
+      "sess": "74",
+      "sess1": "+84",
+      "sessColor": "green",
+      "avg": "19.15"
+    },
+    {
+      "Source": "Twitter",
+      "ConValue": "80",
+      "cV1": "34",
+      "cV2": "+8",
+      "cVcolor": "green",
+      "sess": "17",
+      "sess1": "-5",
+      "sessColor": "red",
+      "avg": "7.07"
+    },
+    {
+      "Source": "Linkedin",
+      "ConValue": "75",
+      "cV1": "42",
+      "cV2": "-6",
+      "cVcolor": "red",
+      "sess": "27",
+      "sess1": "+18",
+      "sessColor": "green",
+      "avg": "34.99"
+    },
+    {
+      "Source": "Google +",
+      "ConValue": "56",
+      "cV1": "56",
+      "cV2": "+9",
+      "cVcolor": "green",
+      "sess": "14",
+      "sess1": "+18",
+      "sessColor": "green",
+      "avg": "55"
+    },
+    {
+      "Source": "Instagram",
+      "ConValue": "32",
+      "cV1": "22",
+      "cV2": "-10",
+      "cVcolor": "red",
+      "sess": "8",
+      "sess1": "-4",
+      "sessColor": "red",
+      "avg": "22.05"
+    },
+    {
+      "Source": "Youtube",
+      "ConValue": "88",
+      "cV1": "88",
+      "cV2": "-33",
+      "cVcolor": "red",
+      "sess": "58",
+      "sess1": "+19",
+      "sessColor": "green",
+      "avg": "73.8"
+    },
+    {
+      "Source": "Skype",
+      "ConValue": "91",
+      "cV1": "91",
+      "cV2": "+55",
+      "cVcolor": "green",
+      "sess": "62",
+      "sess1": "+11",
+      "sessColor": "green",
+      "avg": "66"
+    }
+  ]
+}
